@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exit Dialog</string>
+    <string name="exit_aplication_dialog">Do you wish to exit this aplication?</string>
+
+</resources>
